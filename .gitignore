@@ -67,6 +67,9 @@ Temporary Items
 # Windows default autosave extension
 *.asv
 
+# mat data
+*.mat
+
 # OSX / *nix default autosave extension
 *.m~
 
