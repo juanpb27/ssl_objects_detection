@@ -1,2 +1,2 @@
-model_checkpoint_path: "small_nuts_v4"
-all_model_checkpoint_paths: "small_nuts_v4"
+model_checkpoint_path: "final_nuts"
+all_model_checkpoint_paths: "final_nuts"
