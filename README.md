@@ -1,2 +1,2 @@
-# Objects Detection LodeSTAR
-Performing object detection with LodeSTAR method, using just one unlabeled training image.
+# Single-shot learning for 3D feature detection with multi-scale data augmentation
+Performing object detection by using just one unlabeled training image.
